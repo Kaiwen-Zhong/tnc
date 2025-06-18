@@ -1,4 +1,4 @@
-# T&C Analyzer
+# tnc Terms and Conditions Analyzer
 
 AI-powered Terms & Conditions document analyzer using Google Gemini.
 
